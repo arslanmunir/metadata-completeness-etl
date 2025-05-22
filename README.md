@@ -44,10 +44,10 @@ o	False positive rate and cleaning impact metrics.
 
 
 Screenshot
-
+Image folder
 
 ##Author
 Arslan Munir  
 [LinkedIn](https://www.linkedin.com/in/muhammad-arslan-munir-243a2822/)  
-Davis, California, USA
+
  
